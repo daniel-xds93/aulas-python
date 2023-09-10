@@ -23,3 +23,5 @@ minhaLista.insert(2, add_posicao2)
 
 print(minhaLista)
 
+
+
